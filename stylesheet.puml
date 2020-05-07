@@ -1,8 +1,7 @@
 @startuml Project Stylesheet
 
 ' Load preset styles.
-!define STYLEPATH .
-!include STYLEPATH/style-presets.puml
+!includeurl https://raw.githubusercontent.com/jmarcon/plantuml-style/master/style-presets.puml
 
 ' Color Definition
 ' Choose the style you want by applying them here.
